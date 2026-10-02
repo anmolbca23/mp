@@ -1,0 +1,5 @@
+com.example.firstapp:style/AppTheme = 0x7f030000
+com.example.firstapp:layout/activity_main = 0x7f020000
+com.example.firstapp:id/submitButton = 0x7f010002
+com.example.firstapp:id/resultText = 0x7f010001
+com.example.firstapp:id/nameInput = 0x7f010000

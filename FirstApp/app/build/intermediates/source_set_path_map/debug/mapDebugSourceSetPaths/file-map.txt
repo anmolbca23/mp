@@ -1,0 +1,7 @@
+com.example.firstapp-pngs-0 /workspaces/mp/FirstApp/app/build/generated/res/pngs/debug
+com.example.firstapp-resValues-1 /workspaces/mp/FirstApp/app/build/generated/res/resValues/debug
+com.example.firstapp-packageDebugResources-2 /workspaces/mp/FirstApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.firstapp-packageDebugResources-3 /workspaces/mp/FirstApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.firstapp-debug-4 /workspaces/mp/FirstApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.firstapp-debug-5 /workspaces/mp/FirstApp/app/src/debug/res
+com.example.firstapp-main-6 /workspaces/mp/FirstApp/app/src/main/res
