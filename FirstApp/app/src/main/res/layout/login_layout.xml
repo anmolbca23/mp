@@ -1,0 +1,49 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent">
+
+    <TextView
+        android:id = "@+id/title"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "Login Page"
+        android:textSize = "18sp"
+        android:textStyle = "bold"
+        android:padding = "10dp"
+        android:textColor = "#000000"
+        android:background = "#0073e6"/>
+    
+    <EditText
+        android:id = "@+id/username"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@id/title"
+        android:hint = "Enter your username"
+        android:inputType = "text"
+        android:layout_margin = "10dp" />
+    
+    <EditText
+        android:id = "@+id/password"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@id/username"
+        android:hint = "Enter your password"
+        android:inputType = "textPassword"
+        android:layout_margin = "10dp" />
+
+    <CheckBox
+        android:id = "@+id/checkbox"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@id/password"
+        android:text = "Remember Me"/>
+
+    <Button
+        android:id = "@+id/button"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@id/checkbox"
+        android:text = "Submit"
+        android:layout_marginTop = "10dp" />
+</RelativeLayout>
